@@ -12,3 +12,9 @@ Create a .env with the following variables
   CLIENT_SECRET
   ```
 The values should be from the Google OAuth 2.0 API
+
+## Runnig the project
+To run the project run the following command:
+```bash
+  $ node .\app.js
+  ```
